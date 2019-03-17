@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>
+Daily Schedule
+</title>
+</head>
+ <style>
+  body{background-color:lightgrey
+  }
+ </style>
+<body>
+<h1 style="font-family:Times New Roman;text-align="center";font-size:20pt;
